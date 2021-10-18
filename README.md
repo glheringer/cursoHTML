@@ -7,7 +7,13 @@ que é como criar uma estrutura HTML e interpretá-las, usar links em seu websit
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+- Módulo 02 : Ensino das tags e suas usabilidades, estrutura do código HTML.
+- Módulo 03 : Trabalho com texto escritos no HTML. Block vs Inline Elements
+- Módulo 04 : Criação e manuseio de listas.
+- Módulo 05 : Trabalho com Links nas páginas HTML. Link para páginas externas, Link para o próprio cógido HTML e Linkagem para Alvos.
+- Módulo 06 : Criação e manuseio de tabelas.
+- Módulo 07 : Adição e manuseio de imagens em sua página HTML, criação de websites mais modernos.
+- Módulo 08 : Acessibilidade em seus códigos.
 
 
 
